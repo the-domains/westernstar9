@@ -1,0 +1,28 @@
+name: WesternStar9
+favicon: null
+layout_spectrum: 0.5163198299705982
+typography_spectrum: 0.667089503724128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7651380577590317
+  lightness: 0.5292566630523652
+  saturation: 0.21866649365983903
+  rhythmicContrast: 0.693374827504158
+purpose: []
